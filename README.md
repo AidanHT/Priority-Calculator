@@ -9,4 +9,7 @@ The Priority Calculator uses 4 Factors that you input into the program to create
 4. Number of Tasks Inputted
 5. Time you have to work
 
+In this program, there is a complex algorithm that maximizes the user's time efficiently no matter the input (difficulty, time, due date, etc.).
+A retro gui was also made to be appealing and unique for the user.
+
 Used the python coding language and tkinter to create our creative Priority Calculator Program.
